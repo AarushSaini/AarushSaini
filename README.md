@@ -1,9 +1,8 @@
-- Intrester in Power bi
-  
-- 👀 I’m interested in coding.
-- 🌱 In my 1st year of btech CSE .
+- 👋 Hello! I'm Aarush Saini, a student of Btech CSE 1st year. Passionate about Data Analyist. Currently focusing on Power Bi.
 
-<!---
-AarushSaini/AarushSaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  🚀 I enjoy working with Power Bi, Tableau, SQL and I'm always eager to learn something new.
+
+- 💡 Let's connect and collaborate on projects that have Data to Analyze.
+
+- 🌍 Find me on https://www.linkedin.com/in/aarush-saini-815608268/
+  
