@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AarushSaini
+- Intrester in Power bi
+  
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning in 12th class.
-- 💞️ I’m looking to collaborate with Good company.
-- 📫 How to reach me - saini.aarush2007@gmail.com
+- 🌱 In my 1st year of btech CSE .
 
 <!---
 AarushSaini/AarushSaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
